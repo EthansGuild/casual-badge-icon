@@ -50,3 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 - [greagob](https://github.com/greagob) - Project Creator
 - Special thanks to [beat.](https://steamcommunity.com/id/berabedegas/) for helping me figure out how to render all of the high-quality badges!
+- I did leverage a lot of work on the coding aspect of this from ChatGPT, beware of bugs...
