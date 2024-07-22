@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 - [greagob](https://github.com/greagob) - Project Creator
-- Special thanks to [beat.](https://steamcommunity.com/id/berabedegas/) for helping me render all of the HD badges!
+- Special thanks to [beat.](https://steamcommunity.com/id/berabedegas/) for helping me figure out how to render all of the high-quality badges!
